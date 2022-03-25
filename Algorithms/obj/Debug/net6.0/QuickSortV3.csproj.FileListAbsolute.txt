@@ -1,0 +1,15 @@
+C:\Users\abire\source\repos\Algorithms\Algorithms\bin\Debug\net6.0\QuickSortV3.exe
+C:\Users\abire\source\repos\Algorithms\Algorithms\bin\Debug\net6.0\QuickSortV3.deps.json
+C:\Users\abire\source\repos\Algorithms\Algorithms\bin\Debug\net6.0\QuickSortV3.runtimeconfig.json
+C:\Users\abire\source\repos\Algorithms\Algorithms\bin\Debug\net6.0\QuickSortV3.dll
+C:\Users\abire\source\repos\Algorithms\Algorithms\bin\Debug\net6.0\QuickSortV3.pdb
+C:\Users\abire\source\repos\Algorithms\Algorithms\obj\Debug\net6.0\QuickSortV3.csproj.AssemblyReference.cache
+C:\Users\abire\source\repos\Algorithms\Algorithms\obj\Debug\net6.0\QuickSortV3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abire\source\repos\Algorithms\Algorithms\obj\Debug\net6.0\QuickSortV3.AssemblyInfoInputs.cache
+C:\Users\abire\source\repos\Algorithms\Algorithms\obj\Debug\net6.0\QuickSortV3.AssemblyInfo.cs
+C:\Users\abire\source\repos\Algorithms\Algorithms\obj\Debug\net6.0\QuickSortV3.csproj.CoreCompileInputs.cache
+C:\Users\abire\source\repos\Algorithms\Algorithms\obj\Debug\net6.0\QuickSortV3.dll
+C:\Users\abire\source\repos\Algorithms\Algorithms\obj\Debug\net6.0\refint\QuickSortV3.dll
+C:\Users\abire\source\repos\Algorithms\Algorithms\obj\Debug\net6.0\QuickSortV3.pdb
+C:\Users\abire\source\repos\Algorithms\Algorithms\obj\Debug\net6.0\QuickSortV3.genruntimeconfig.cache
+C:\Users\abire\source\repos\Algorithms\Algorithms\obj\Debug\net6.0\ref\QuickSortV3.dll
