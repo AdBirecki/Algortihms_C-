@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abire\\source\\repos\\Algorithms\\SelectionSort\\SelectionSort.csproj": {}
+    "C:\\Users\\Adam\\OneDrive\\Pulpit\\Algortihms_C-\\SelectionSort\\SelectionSort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abire\\source\\repos\\Algorithms\\SelectionSort\\SelectionSort.csproj": {
+    "C:\\Users\\Adam\\OneDrive\\Pulpit\\Algortihms_C-\\SelectionSort\\SelectionSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abire\\source\\repos\\Algorithms\\SelectionSort\\SelectionSort.csproj",
+        "projectUniqueName": "C:\\Users\\Adam\\OneDrive\\Pulpit\\Algortihms_C-\\SelectionSort\\SelectionSort.csproj",
         "projectName": "SelectionSort",
-        "projectPath": "C:\\Users\\abire\\source\\repos\\Algorithms\\SelectionSort\\SelectionSort.csproj",
-        "packagesPath": "C:\\Users\\abire\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abire\\source\\repos\\Algorithms\\SelectionSort\\obj\\",
+        "projectPath": "C:\\Users\\Adam\\OneDrive\\Pulpit\\Algortihms_C-\\SelectionSort\\SelectionSort.csproj",
+        "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adam\\OneDrive\\Pulpit\\Algortihms_C-\\SelectionSort\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\abire\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Adam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/adambirecki/PipelineTest/_packaging/PipelineTestArtifacts/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
